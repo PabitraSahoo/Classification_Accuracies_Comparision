@@ -1,0 +1,7 @@
+Accuracy of DecisionTree is 0.7037037037037037
+Accuracy of Random Forest is 0.6481481481481481
+Accuracy of KernelSVM is 0.6481481481481481
+Accuracy of KNN is 0.6481481481481481
+Accuracy of Logistic regression is 0.5740740740740741
+Accuracy of Naive Bayes is 0.46296296296296297
+Accuracy of Supprt Vector Machine(linear kernel) is 0.5555555555555556
